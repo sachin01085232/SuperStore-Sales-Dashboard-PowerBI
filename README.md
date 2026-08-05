@@ -1,74 +1,100 @@
 # 📊 SuperStore Sales Dashboard | Power BI
 
-## 📌 Project Overview
-
-This project is an interactive Power BI dashboard built using the SuperStore dataset. It provides insights into sales, profit, orders, and customer performance using Power BI visualizations and DAX measures.
+An interactive Business Intelligence dashboard built using Power BI to analyze sales performance, profit trends, customer behavior, and regional performance using the SuperStore dataset.
 
 ---
 
-## 🎯 Objectives
+## 📸 Dashboard Preview
 
-- Analyze Sales Performance
-- Track Profit Trends
-- Compare Year-over-Year Growth
-- Monitor Monthly Performance
-- Identify Top Categories and Regions
-
----
-
-## 🛠 Tools Used
-
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-
----
-
-## 📈 Dashboard Features
-
-- YTD Sales
-- YTD Profit
-- YTD Quantity Sold
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Region
-- Top Products
-- Dynamic Filters
-
----
-
-## 📷 Dashboard Preview
+> Add your dashboard screenshot here.
 
 ![Dashboard](Dashboard.png)
 
 ---
 
-## 📂 Files Included
+## 📌 Project Objectives
 
-- SuperStore_project.pbix
-- SuperStore_Dataset.csv
-- Dashboard.png
+- Analyze overall sales and profit performance
+- Track Year-to-Date (YTD) KPIs
+- Compare monthly sales trends
+- Identify top-performing categories and products
+- Analyze regional performance
+- Provide business insights for decision-making
 
 ---
 
-## 🚀 Key Skills Demonstrated
+## 📈 Key KPIs
+
+- 💰 YTD Sales
+- 📈 YTD Profit
+- 📦 YTD Quantity
+- 📊 Sales by Category
+- 🌍 Sales by Region
+- 📅 Monthly Sales Trend
+- 🏆 Top Products
+
+---
+
+## 🛠 Tech Stack
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+
+---
+
+## 📂 Project Files
+
+| File | Description |
+|------|-------------|
+| SuperStore_project.pbix | Power BI Dashboard |
+| SuperStore_Dataset.csv | Dataset |
+| Dashboard.png | Dashboard Screenshot |
+
+---
+
+## 📊 Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Data Modeling
-- DAX Calculations
+- DAX Measures
 - Time Intelligence
-- Interactive Dashboard Design
-- Business Insights
+- KPI Design
+- Dashboard Design
+- Business Analysis
+- Data Visualization
 
 ---
 
-## 👤 Author
+## 📈 Business Insights
 
-Sachin Kargeti
+- Identified the highest-performing product categories.
+- Compared sales performance across different regions.
+- Analyzed monthly sales and profit trends.
+- Built dynamic KPIs using DAX.
+- Created an interactive dashboard with slicers and filters.
 
-LinkedIn:
+---
+
+## 🚀 Future Improvements
+
+- Forecasting using Power BI
+- Customer Segmentation
+- Drill-through Reports
+- Advanced DAX Calculations
+
+---
+
+## 👨‍💻 Author
+
+**Sachin Kargeti**
+
+📧 sachinkargeti20@gmail.com
+
+🔗 LinkedIn
 https://www.linkedin.com/in/sachin-kargeti-172435350/
 
-GitHub:
+💻 GitHub
 https://github.com/sachin01085232
